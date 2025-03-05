@@ -1,3 +1,7 @@
+# 👋 Hola, Bienvenido a mi perfil
+
+![header nacho1112](https://i.ibb.co/4ny4qr7s/Navy-Geometric-Technology-Linked-In-Banner.png)
+
 # Oscar Ignacio López Salgado
 
 ¡Hola! 👋 Soy Oscar Ignacio López Salgado, un estudiante de Ingeniería de Sistemas y Telecomunicaciones apasionado por la tecnología y la innovación. Aquí puedes encontrar información sobre mis logros, estudios y habilidades.
